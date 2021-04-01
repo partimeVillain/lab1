@@ -1,3 +1,3 @@
 Liu's User Page
-Liu likes java
+Java Java
 # lab1
