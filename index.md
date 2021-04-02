@@ -1,5 +1,5 @@
 # Welcome
- Liu's *tower* 	:tokyo_tower:
+to Liu's *tower* 	:tokyo_tower:
 
 
 ## Intro
