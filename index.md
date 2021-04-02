@@ -1,7 +1,5 @@
 # Welcome
 to Liu's *tower* 	:tokyo_tower:
-
-
 ## Intro
 He is an ~~weeb~~ aspiring game developer who's still working his way up.
 ### hobbies 
