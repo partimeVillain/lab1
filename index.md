@@ -13,7 +13,7 @@
 ```
 makegame(true);
 ```
-### But where is the fun in that? Just like the Chief alawys says:
+### But where is the fun in that? Just like the Chief always says:
 >Don't wish it were easier, wish you were better. - Chief, Animal Crossing
 ### *Animal Crossing* is game very similiar to [Stardew Valley](4), and Liu's on going project to develop something just like it.
 
